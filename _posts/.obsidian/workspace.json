@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "9f508b6e268fbaa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ece26c4283bdcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "467149e67459399c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd404101ca41fce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99c5c877e9edfe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939265d9869bb523",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cb26bff2642e65b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79cf843b02a513d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c650f203b8d0bc23",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a480a588a17045b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cdd41d3deb06dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "babc2cb62236acb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "684908c6cc09ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82b83cc41391d864",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4aae509d05302fd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "467149e67459399c",
+  "lastOpenFiles": [
+    "2024-01-10-ORANGE.md",
+    "Spaces/Home",
+    "Spaces",
+    "Plantillas/Plantillas.md",
+    "Plantillas/YYYY-MM-DD-TI-TLE.md",
+    "2023-12-16-TOMGHOST.md",
+    "capturas.assets/tomghost/11.png",
+    "capturas.assets/tomghost/06.png",
+    "capturas.assets/tomghost/05.png",
+    "capturas.assets/tomghost/02.png",
+    "capturas.assets/tomghost/10.png",
+    "capturas.assets/tomghost/09.png",
+    "capturas.assets/tomghost/04.png",
+    "capturas.assets/tomghost/03.png",
+    "capturas.assets/tomghost/08.png",
+    "capturas.assets/tomghost/07.png",
+    "capturas.assets/capturas.assets.md",
+    "!tomghost_scan.png.md",
+    "capturas/Untitled.md",
+    "_posts.md",
+    "capturas/tomghost.md",
+    "capturas/tomghost/tomghost.md",
+    "Sin título.md",
+    "2023-12-14-POST-DE-PRUEBA.md",
+    "2023-12-13-Hello world.md",
+    "Banners"
+  ]
+}
