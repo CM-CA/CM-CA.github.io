@@ -95,12 +95,13 @@ comments:
   giscus:
     repo: CM-CA/CM-CA.github.io
     repo_id: R_kgDOLLHsgg
-    category: Comentario.
+    category: Comentarios
     category_id: DIC_kwDOLLHsgs4Ccx75
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: es # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
+    theme: noborder_dark
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
