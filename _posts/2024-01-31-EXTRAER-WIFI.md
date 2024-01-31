@@ -26,32 +26,29 @@ result = subprocess.run(['netsh', 'wlan', 'show', 'interfaces'], capture_output=
 
 output = result.stdout
 
-  
-
 # Utilizar expresiones regulares para encontrar el nombre de la red
 
 match = re.search(r'SSID\s+: (.+)', output)
 
 if match:
 
-    ssid = match.group(1).strip()
+  ssid = match.group(1).strip()
 
 else:
 
-    ssid = None
+  ssid = None
 
 if ssid:
 
-    # Obtener la contraseña de la red Wi-Fi
+  # Obtener la contraseña de la red Wi-Fi
+  result = subprocess.run(['netsh', 'wlan', 'show', 'profile', 'name=' + ssid, 'key=clear'], capture_output=True, text=True)
 
-    result = subprocess.run(['netsh', 'wlan', 'show', 'profile', 'name=' + ssid, 'key=clear'], capture_output=True, text=True)
+  output = result.stdout
 
-    output = result.stdout
-
-    print(output)
+  print(output)
 
 else:
 
-    print("No se pudo determinar el nombre de la red Wi-Fi a la que está conectado el equipo.")
+  print("No se pudo determinar el nombre de la red Wi-Fi a la que está conectado el equipo.")
 
 `````
