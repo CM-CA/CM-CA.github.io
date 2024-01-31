@@ -1,7 +1,7 @@
 ---
 title: Extraer Clave Wifi
 date: 2024-01-31 22:00 +/-0000
-categories: Windows Scripts
+categories: Windows
 tags:
   - scripts
   - windows
@@ -12,7 +12,6 @@ toc: true
 Con este script podemos obtener la clave wifi a la que el equipo se encuentra conectado. Funcionará únicamente en Windows, ya que el sistema de almacenamiento en en totalmente distinto en Unix y Linux.
 
 El script puede convertirse en un ejecutable **.exe** y requiere permisos de administrador para poder ejecutar **netsh**.
-
 
 
 ````python
