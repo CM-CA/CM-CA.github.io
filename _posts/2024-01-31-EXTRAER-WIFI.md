@@ -18,8 +18,6 @@ import subprocess
 
 import re
 
-  
-
 # Obtener el nombre de la red Wi-Fi a la que está conectado el equipo
 
 result = subprocess.run(['netsh', 'wlan', 'show', 'interfaces'], capture_output=True, text=True)
