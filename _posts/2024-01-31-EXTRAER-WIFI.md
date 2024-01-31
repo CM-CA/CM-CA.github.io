@@ -1,7 +1,7 @@
 ---
 title: Extraer Clave Wifi
 date: 2024-01-31 22:00 +/-0000
-categories: Windows
+categories: Windows Script
 tags:
   - scripts
   - windows
