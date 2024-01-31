@@ -13,7 +13,6 @@ Con este script podemos obtener la clave wifi a la que el equipo se encuentra co
 
 El script puede convertirse en un ejecutable **.exe** y requiere permisos de administrador para poder ejecutar **netsh**.
 
-
 ````python
 import subprocess
 
@@ -41,8 +40,6 @@ else:
 
     ssid = None
 
-  
-
 if ssid:
 
     # Obtener la contraseña de la red Wi-Fi
@@ -58,4 +55,3 @@ else:
     print("No se pudo determinar el nombre de la red Wi-Fi a la que está conectado el equipo.")
 
 `````
-
