@@ -20,7 +20,7 @@ Para seguir con la noticia, me gusta primero indagar en la empresa que fue hacke
 1. Empiezo con una búsqueda por Google, buscando noticias relacionadas. Para ello uso [dorksearch.com](https://dorksearch.com/) y me centro en buscar en Incibe, ya que, cuando existe una brecha de seguridad, debe comunicarse a Incibe… y al parecer no ha sido la primera vez, ya el 30 de Mayo de 2019 tuvieron una brecha de filtración de datos.
 2. Dentro de la propia notificación de el Incibe, me encuentro con los siguientes datos:
 
-	![Incibe descripcion](capturas/fuden/incibe-data.png)
+	![Incibe descripcion](capturas/fuden/incibe-data.png){: width="700" height="400" }
 	
 	![Incibe datos](capturas/fuden/incibe-detalle.png){: width="700" height="400" }
 3. Lo mas curioso que me he encontrado, en una de las noticias es lo siguiente:
@@ -43,7 +43,7 @@ Introduzco el dominio en #PhoneBook y … bueno, podeis comprobarlo vosotros mis
 
 ¿Y el login? Bueno, pues al parecer emplean **Moodle**, con una autenticacion **SimpleSAMLphp** y… Sí, una versión **PHP 7.4.27**. 
 
-![php release](capturas/fuden/php-release.png)
+![php release](capturas/fuden/php-release.png){: width="700" height="400" }
 
 ## CONCLUSIÓN.
 
