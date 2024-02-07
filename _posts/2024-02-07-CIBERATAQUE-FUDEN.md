@@ -6,12 +6,12 @@ tags:
 author: okud4
 toc: true
 img_path: /assets/img/capturas/
-image:
+image: /assets/img/banners/overpass-banner.png
 ---
 
 
 
-Have unos dias saltó la noticia de que FUDEN, una plataforma online de cursos de enfermeria, fue hackeada a través de un #malware. Según indican algunos medios, el atacante procede de EEUU y secuestró los datos personales de los alumnos a cambio de dinero.
+Hace unos dias saltó la noticia de que FUDEN, una plataforma online de cursos de enfermeria, fue hackeada a través de un #malware. Según indican algunos medios, el atacante procede de EEUU y secuestró los datos personales de los alumnos a cambio de dinero.
 
 ## FUDEN.
 
