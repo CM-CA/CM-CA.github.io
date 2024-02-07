@@ -49,3 +49,4 @@ Introduzco el dominio en #PhoneBook y … bueno, podeis comprobarlo vosotros mis
 Lo alarmante de todo esto, es como se trata los datos de los usuarios. Si tenemos una brecha de seguridad, debe comunicarse de forma inmediata. A los usuarios se les debe notificar los datos que le han sido robados y los pasos a seguir para que comprueben que su identidad no ha sido suplantada (para pedir prestamos, por ejemplo…), cambiar sus contraseñas, que sus números de teléfono no sean usados para ciberestafas…
 
 La empresa debe mantener su plataforma actualizada y **NUNCA** puede menospreciar los datos de los usuarios.
+
