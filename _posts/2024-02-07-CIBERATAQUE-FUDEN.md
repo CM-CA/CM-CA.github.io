@@ -5,8 +5,8 @@ categories: Noticias
 tags: 
 author: okud4
 toc: true
-img_path: /assets/img/capturas/
-image: /assets/img/banners/overpass-banner.png
+img_path: /assets/img/
+image: banners/fuden-banner.jpg
 ---
 
 
@@ -18,10 +18,11 @@ Hace unos dias saltó la noticia de que FUDEN, una plataforma online de cursos d
 Para seguir con la noticia, me gusta primero indagar en la empresa que fue hackeada, si fué la primera vez o tuvo ya mas ciberataques…
 
 1. Empiezo con una búsqueda por Google, buscando noticias relacionadas. Para ello uso [dorksearch.com](https://dorksearch.com/) y me centro en buscar en Incibe, ya que, cuando existe una brecha de seguridad, debe comunicarse a Incibe… y al parecer no ha sido la primera vez, ya el 30 de Mayo de 2019 tuvieron una brecha de filtración de datos.
-2. Dentro de la propia notificación de el Incibe, me encuentro con los siguientes datos: 
-	![Incibe descripcion](fuden/incibe-data.png)
+2. Dentro de la propia notificación de el Incibe, me encuentro con los siguientes datos:
+
+	![Incibe descripcion](capturas/fuden/incibe-data.png)
 	
-	![Incibe datos](fuden/incibe-detalle.png)
+	![Incibe datos](capturas/fuden/incibe-detalle.png){: width="700" height="400" }
 3. Lo mas curioso que me he encontrado, en una de las noticias es lo siguiente:
 
 	> Los afectados, enfadados, aseguran haberse enterado del ciberataque a través de un foro en lugar de por la propia Fuden. Sin embargo, y a pesar de las numerosas reacciones a través de las redes sociales, desde la fundación le restan importancia: **"Se le está dando más relevancia de la que tiene".**  
@@ -42,7 +43,7 @@ Introduzco el dominio en #PhoneBook y … bueno, podeis comprobarlo vosotros mis
 
 ¿Y el login? Bueno, pues al parecer emplean **Moodle**, con una autenticacion **SimpleSAMLphp** y… Sí, una versión **PHP 7.4.27**. 
 
-![php release](fuden/php-release.png)
+![php release](capturas/fuden/php-release.png)
 
 ## CONCLUSIÓN.
 
