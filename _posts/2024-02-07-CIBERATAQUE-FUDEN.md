@@ -6,7 +6,7 @@ tags:
 author: okud4
 toc: true
 img_path: /assets/img/capturas/
-image: /fuden/fuden-banner.jpg
+image:
 ---
 
 
