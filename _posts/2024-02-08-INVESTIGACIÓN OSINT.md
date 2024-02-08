@@ -48,9 +48,9 @@ Geolocalizar en donde ocurrieron los hechos.
 
 - La matricula es **9981HCY**.
 
-  ![matricula 1](capturas/totana/image-6.png)  
-  ![matricula-2](capturas/totana/image-7.png)
-  ![matricula-3](capturas/totana/image-10.png)
+  1. ![matricula 1](capturas/totana/image-6.png)  
+  2. ![matricula-2](capturas/totana/image-7.png)
+  3. ![matricula-3](capturas/totana/image-10.png)
 
 - Características de el vehículo.
 
