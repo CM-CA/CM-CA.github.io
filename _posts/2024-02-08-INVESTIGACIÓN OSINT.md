@@ -12,7 +12,13 @@ img_path: /assets/img/
 image: /banners/investigator-banner.jpg
 ---
 
-Hace unos días se nos propuso un reto de OSINT en el que consistía en verificar si una foto era real o generada por IA, además de poder obtener ciertas pistas.
+Hace unos días se nos propuso un reto de OSINT en el que consistía en verificar si una foto era real o generada por IA, además de poder obtener ciertas pistas si es que se pueden obtener:
+
+- Ubicar la foto.
+- Matrícula
+- Detalles.
+- La señora.
+- El señor.
 
 # Informe de un migrante subido a un coche fúnebre
 
@@ -63,7 +69,7 @@ Geolocalizar en donde ocurrieron los hechos.
 
 ### Localización exacta
 
-- Foto de el lugar de los hechos.
+- Foto de el lugar de los hechos. Con respecto a la foto original, podemos apreciar que es la misma farola y misma papelera, el diseño de los edificios, los soportales con cristaleras y el balcón con el ventanal verde  coinciden al 100% con la foto original. Si es verdad que lo que no coincide, es la señalización que se encuentra en la farola, actualmente no existe. El edificio en cuestión es el **Museo Torre Totana.**
     ![lugar funebre](capturas/totana/image-3.png)
 
 - Fotos tomadas desde la calle Plaza de la Constitución.
