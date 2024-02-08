@@ -64,15 +64,12 @@ Geolocalizar en donde ocurrieron los hechos.
 ### Localización exacta
 
 - Foto de el lugar de los hechos.
-
     ![lugar funebre](capturas/totana/image-3.png)
 
 - Fotos tomadas desde la calle Plaza de la Constitución.
-
     ![foto desde farmacia](capturas/totana/image-2.png)
 
 - Con cierta exactitud, podría haber sido tomada desde esta farmacia.
-
     ![farmacia](capturas/totana/image-1.png)
 
 ## Análisis
