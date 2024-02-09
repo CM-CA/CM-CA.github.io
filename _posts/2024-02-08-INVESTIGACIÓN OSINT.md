@@ -66,7 +66,7 @@ La imagen en cuestión muestra a una persona de color dentro de un coche fúnebr
 
 ### LOCALIZACIÓN EXACTA
 
-- La photo original muestra la misma farola, papelera, diseño de los edificios, soportales con cristaleras y balcón con ventanal verde que coinciden al 100% con la realidad. La única discrepancia es la señalización en la farola, que actualmente no existe. El edificio en cuestión es el **Museo Torre Totana**.
+- La foto original muestra la misma farola, papelera, diseño de los edificios, soportales con cristaleras y balcón con ventanal verde que coinciden al 100% con la realidad. La única discrepancia es la señalización en la farola, que actualmente no existe. El edificio en cuestión es el **Museo Torre Totana**.
 
     ![lugar funebre](capturas/totana/image-3.png)
 
