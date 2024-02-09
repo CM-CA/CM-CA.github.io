@@ -12,39 +12,38 @@ img_path: /assets/img/
 image: /banners/investigator-banner.jpg
 ---
 
-Hace unos días se nos propuso un reto de OSINT en el que consistía en verificar si una foto era real o generada por IA, además de poder obtener ciertas pistas si es que se pueden obtener:
+Recientemente, nos enfrentamos a un desafío de OSINT que requería verificar la autenticidad de una fotografía y determinar si había sido generada por IA. Además, debíamos recopilar pistas adicionales cuando fuera possible:
 
-- Ubicar la foto.
-- Matrícula
-- Detalles.
-- La señora.
-- El señor.
+- Identificar la ubicación exacta de la fotografía.
+- Registrar la matrícula del vehículo involucrado.
+- Observar detalles relevantes.
+- Identificar a las personas en la imagen.
+- Obtener información sobre un migrante que aparece en un coche fúnebre.
 
-# Informe de un migrante subido a un coche fúnebre
+# INFORME DE UN MIGRANTE SUBIDO A UN COCHE FÚNEBRE
 
-## Resumen Ejecutivo
+## RESUMEN EJECUTIVO
 
-Se presenta la imagen de una persona de color subida a un coche fúnebre y solicitan saber si la foto es auténtica o generada por IA.
+La imagen en cuestión muestra a una persona de color dentro de un coche fúnebre, generando dudas sobre su autenticidad. Los hechos representados ocurrieron el pasado 2 de febrero en Totana (Murcia), y tras una exhaustiva revisión, podemos confirmar la veracidad de la imagen.
 
-Los hechos de la imagen ocurrieron el pasado 2 de febrero en Totana (Murcia), en cuyo caso, como veredicto, podemos asegurar que es **real**.
+## OBJETIVOS DE LA INVESTIGACIÓN
 
-## Objetivos de la Investigación
+- Verificar la autenticidad de la photo.
+- Geolocalizar el lugar de los hechos.
+- Identificar matrícula de el vehículo.
+- Identificar a la mujer y al hombre que salen en la photo.
 
-Comprobar si la foto es real o generada por IA.
+## METODOLOGÍA
 
-Geolocalizar en donde ocurrieron los hechos.
-
-## Metodología
-
-- Para comprobar si la foto ha sido generada o manipulada por IA, utilizo de      forma la herramienta [Hive Moderation](https://hivemoderation.com) la cual arroja el resultado de que la imagen no fue manipulada ni creada por IA.
+- Para determinar la autenticidad de la photo, empleamos la herramienta [Hive Moderation](https://hivemoderation.com), que concluyó que la imagen no había sido manipulada ni creada por IA.
 
    ![negro-funebre](capturas/totana/image.png)
 
-## Hallazgos
+## HALLAZGOS
 
-### Investigación sobre los hechos
+### INVESTIGACIÓN SOBRE LOS HECHOS
 
-- Los hechos se produce entorno a las 10:00 en frente de la Iglesia Parroquial de Santiago (**Totana**, Murcia).
+- Los hechos ocurrieron alrededor de las 10:00 frente a la Iglesia Parroquial de Santiago (**Totana**, Murcia).
 
   ![negro coche](capturas/totana/image-4.png)
 
@@ -52,7 +51,7 @@ Geolocalizar en donde ocurrieron los hechos.
 
  ![esquela](capturas/totana/isabel.png)
 
-- La matricula es **9981HCY**.
+- La matricula de el vehículo es **9981HCY**.
   
   1. ![matricula-2](capturas/totana/image-7.png)
   2. ![matricula-3](capturas/totana/image-10.png)
@@ -63,30 +62,31 @@ Geolocalizar en donde ocurrieron los hechos.
 
 - Según la información obtenida en [Maldita Migración](https://maldita.es/migracion/bulo/20240206/migrante-coche-funebre-totana-murcia/) el vehículo pertenece al tanatorio ***"Pichirichi".***
 
-- Citando textualmente el contenido final de la noticia, nos indica que el hombre se encuentra ingresado.
+- El hombre de la fotografía está ingresado en el hospital Rafael Méndez de Lorca (Murcia), trasladado por servicios sociales según el ayuntamiento y confirmado por la Iglesia de Santiago el Mayor.
 
-> el ayuntamiento dice que el hombre fue **"trasladado por servicios sociales"** a un **centro de salud mental**. La Iglesia de Santiago el Mayor concreta que les **"consta que está ingresado"** en el **hospital Rafael Méndez de Lorca** (Murcia).
+### LOCALIZACIÓN EXACTA
 
-### Localización exacta
+- La photo original muestra la misma farola, papelera, diseño de los edificios, soportales con cristaleras y balcón con ventanal verde que coinciden al 100% con la realidad. La única discrepancia es la señalización en la farola, que actualmente no existe. El edificio en cuestión es el **Museo Torre Totana**.
 
-- Foto de el lugar de los hechos. Con respecto a la foto original, podemos apreciar que es la misma farola y misma papelera, el diseño de los edificios, los soportales con cristaleras y el balcón con el ventanal verde  coinciden al 100% con la foto original. Si es verdad que lo que no coincide, es la señalización que se encuentra en la farola, actualmente no existe. El edificio en cuestión es el **Museo Torre Totana.**
     ![lugar funebre](capturas/totana/image-3.png)
 
-- Fotos tomadas desde la calle Plaza de la Constitución.
+- Fotos tomadas desde la called Plaza de la Constitución.
+
     ![foto desde farmacia](capturas/totana/image-2.png)
 
-- Con cierta exactitud, podría haber sido tomada desde esta farmacia.
+- Con cierta exactitud, posiblemente la photo fué tomada desde esta farmacia.
+
     ![farmacia](capturas/totana/image-1.png)
 
-## Análisis
+## ANÁLISIS
 
-Tras finalizar ambas líneas de investigación y comprobar que los hechos concuerdan con las fotos obtenidas, concluimos que la foto es **REAL**.
+Tras finalizar ambas líneas de investigación y comprobar que los hechos concuerdan con las fotos obtenidas, concluimos que la photo es **REAL**.
 
-## Limitaciones
+## LIMITACIONES
 
-Actualmente me resultó imposible comprobar a que funeraria pertenece el vehículo por no tener acceso a la DGT.
+Actualmente me resultó impossible comprobar a que funeraria pertenece el vehículo por no tener acceso a la DGT.
 
-## Referencias
+## REFERENCIAS
 
 [Newtral](https://www.newtral.es/hombre-coche-funebre-totana-nos-preguntais-por/20240205/)
 
@@ -98,6 +98,6 @@ Actualmente me resultó imposible comprobar a que funeraria pertenece el vehícu
 
 [Maldita Migración](https://maldita.es/migracion/bulo/20240206/migrante-coche-funebre-totana-murcia/)
 
-## Acrónimos y Abreviaturas
+## ACRÓNIMOS Y ABREVIATURAS
 
 **DGT**: Dirección General de Tráfico.
