@@ -12,7 +12,7 @@ img_path: /assets/img/
 image: /banners/investigator-banner.jpg
 ---
 
-Recientemente, nos enfrentamos a un desafío de OSINT que requería verificar la autenticidad de una fotografía y determinar si había sido generada por IA. Además, debíamos recopilar pistas adicionales cuando fuera possible:
+Recientemente, nos enfrentamos a un desafío de OSINT que requería verificar la autenticidad de una fotografía y determinar si había sido generada por IA. Además, debíamos recopilar pistas adicionales cuando fuera posible:
 
 - Identificar la ubicación exacta de la fotografía.
 - Registrar la matrícula del vehículo involucrado.
@@ -28,14 +28,14 @@ La imagen en cuestión muestra a una persona de color dentro de un coche fúnebr
 
 ## OBJETIVOS DE LA INVESTIGACIÓN
 
-- Verificar la autenticidad de la photo.
+- Verificar la autenticidad de la fotografía.
 - Geolocalizar el lugar de los hechos.
 - Identificar matrícula de el vehículo.
-- Identificar a la mujer y al hombre que salen en la photo.
+- Identificar a la mujer y al hombre que salen en la fotografía.
 
 ## METODOLOGÍA
 
-- Para determinar la autenticidad de la photo, empleamos la herramienta [Hive Moderation](https://hivemoderation.com), que concluyó que la imagen no había sido manipulada ni creada por IA.
+- Para determinar la autenticidad de la fotografía, empleamos la herramienta [Hive Moderation](https://hivemoderation.com), que concluyó que la imagen no había sido manipulada ni creada por IA.
 
    ![negro-funebre](capturas/totana/image.png)
 
