@@ -10,7 +10,7 @@ author: okud4
 toc: true
 ---
 
-# **PortSwigger.**
+# **PORTSWIGGER.**
 
 Hoy intentaremos averiguar qué vulnerabilidades podemos encontrar en la IA. Para ello, utilizaremos el nuevo laboratorio que nos ofrece de forma gratuita PortSwigger.
 
@@ -18,7 +18,7 @@ Este laboratorio está creado con un modelo LLM (Large Language Model). En este 
 
 ![](/assets/img/capturas/portswigger/principal.png)
 
-# **Integración de IA en los sitios web.**
+# **INTEGRACIÓN DE IA EN LOS SITIOS WEB.**
 
 La integración de la IA mediante asistentes virtuales en los sitios web debería aplicarse de forma escalonada. Las empresas se exponen a todo tipo de ataques si implementan dichos modelos de lenguaje de forma rápida y sin realizar las pruebas de seguridad pertinentes.
 
@@ -28,7 +28,7 @@ Al exponerse de esta manera, los atacantes pueden interactuar con la API y obten
 2. Desencadenar acciones perjudiciales a través de APIs. Por ejemplo, el atacante podría utilizar un LLM para llevar a cabo un ataque de inyección SQL en una API a la que tiene acceso.
 3. Desencadenar ataques en otros usuarios y sistemas que consultan al LLM. A grandes rasgos, atacar una integración de LLM es a menudo similar a explotar una vulnerabilidad de falsificación de solicitud del lado del servidor (SSRF, por sus siglas en inglés). En ambos casos, un atacante está abusando de un sistema del lado del servidor para lanzar ataques sobre un componente separado que no es accesible directamente.
 
-# **¿Cómo funciona una API en LLM?.**
+# **¿CÓMO FUNCIONA UNA API EN LLM?.**
 
 ![](/assets/img/capturas/portswigger/apimage.png)
 
@@ -52,7 +52,7 @@ El flujo de una API para un asistente virtual puede variar según la implementac
 8. **Manejo de Conversaciones (opcional):**
    - En el caso de asistentes virtuales que admiten conversaciones más largas, la API puede manejar el seguimiento de contextos y estados de conversación para proporcionar respuestas coherentes y contextualmente relevantes.
 
-# **Detección de vulnerabilidades en LLM.**
+# **DETECCIÓN DE VULNERABILIDADES EN LLM.**
 
 La metodología recomendada por PortSwigger para detectar vulnerabilidades en LLM es:
 
@@ -60,7 +60,7 @@ La metodología recomendada por PortSwigger para detectar vulnerabilidades en LL
 2. Determinar a qué datos y APIs tiene acceso el LLM.
 3. Sondear esta nueva superficie de ataque en busca de vulnerabilidades. Explotación de APIs, funciones y complementos de LLM. Los LLMs a menudo son alojados por proveedores de terceros especializados. Un sitio web puede dar a los LLMs de terceros acceso a sus funcionalidades específicas describiendo APIs locales para que el LLM las utilice.
 
-# **Primer Laboratorio de Pruebas.**
+# **PRIMER LABORATORIO DE PRUEBAS.**
 
 En el primer laboratorio nos encontraremos con dos cosas realmente muy curiosas. Para empezar, somos el usuario atacante y debemos borrar el usuario Carlos. En teoría, solamente el usuario Carlos podría borrar su cuenta si estuviera logueado.
 
@@ -68,13 +68,13 @@ En el primer laboratorio nos encontraremos con dos cosas realmente muy curiosas.
 
 La solución que nos ofrecen es mediante un par de preguntas al chatbot, conseguir averiguar las funciones de la API y luego realizar una consulta por SQL en la que seleccionan al usuario Carlos y lo borran de la base de datos, es decir, eliminan su cuenta.
 
-La sorpresa es la siguiente... Siendo el atacante, me identifico al chatbot como Carlos y le pido que elimine mi cuenta, el resultado es...
+La sorpresa es la siguiente… Siendo el atacante, me identifico al chatbot como Carlos y le pido que elimine mi cuenta, el resultado es…
 
 ![](/assets/img/capturas/portswigger/lab_one.png)
 
-Obviamente, esto es una falla muy grave en la seguridad de nuestro sitio web...
+Obviamente, esto es una falla muy grave en la seguridad de nuestro sitio web…
 
-# **Conclusiones.**
+# **CONCLUSIONES.**
 
 Implementar un modelo de IA en nuestro negocio es un riesgo entre medio/alto. Debería realizarse paulatinamente con modelos bien entrenados y que, durante su entrenamiento, no se utilicen datos sensibles de la empresa y menos aún, datos reales de nuestros clientes.
 

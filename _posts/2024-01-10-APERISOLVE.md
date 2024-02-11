@@ -1,5 +1,5 @@
 ---
-title: Aperi'Solve
+title: "Aperi'Solve"
 date: 2024-01-10 14:20 +/-0000
 categories: Herramientas Esteganografía
 tags:
@@ -24,15 +24,10 @@ AperiSolve soporta los principales tipos de imagen: `.png`, `.jpg`, `.gif`, `
 La herramienta nos permite realizar las siguientes tareas:
 
 - Visualiza cada capa de bits de cada canal para una imagen dada (es decir, el bit menos significativo del canal Rojo). Navega y descarga cada imagen de capa de bits.
-
 - Visualiza información de zsteg, como texto codificado en el bit menos significativo (LSB). Descarga archivos zsteg, como mp3 codificados en LSB.
-
 - Descarga archivos steghide utilizando una contraseña definida. Descarga archivos outguess utilizando una contraseña definida.
-
 - Visualiza información de exiftool, como la geolocalización o el autor. Visualiza información de binwalk.
-
 - Descarga archivos binwalk, como archivos zip en encabezados png. Descarga archivos foremost, como archivos zip en encabezados png.
-
 - Visualiza la salida de cadenas (strings).
 
 Si deseais colaborar con el proyecto, no olvideis visitar su [repositorio](https://github.com/Zeecka/AperiSolve).

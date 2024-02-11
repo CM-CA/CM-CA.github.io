@@ -10,7 +10,7 @@ author: okud4
 toc: true
 ---
 
-## Reconocimiento
+## RECONOCIMIENTO
 
 Empezamos investigando la máquina accediendo a su dirección ip por nuestro navegador, y como resultado, nos muestra una página web
 
@@ -22,7 +22,7 @@ Seguimos analizando su código, por si descubrimos algo interesante.
 
 Hasta ahora no encontramos nada llamativo.
 
-## Escaneo y Enumeración
+## ESCANEO Y ENUMERACIÓN
 
 Escaneamos la dirección IP con Nessus y analizamos los resultados obtenidos.
 
@@ -84,7 +84,7 @@ El archivo `locks.txt` parece ser posibles contraseñas y el archivo `task.txt` 
 
 Ahora que tenemos una lista de usuarios, podemos acceder por ssh a nuestra máquina, pero nos falta obtener la clave, así que tenemos que conseguir el acceso por fuerza bruta usando #Hydra.
 
-Pero antes de nada, volvemos a inspeccionar el contenido de la web en busca de algún dato importante. Vemos que el contenido es un dialogo entre cuatro personas... Tomaremos sus nombres, junto con el nombre de usuario que encontramos en `task.txt` y creamos un nuevo diccionario de nombres de usuario llamado `users.txt`. Este diccionario lo tomaremos junto con el archivo `locks.txt` para poder obtener el usuario y la clave de acceso para la conexión SSH.
+Pero antes de nada, volvemos a inspeccionar el contenido de la web en busca de algún dato importante. Vemos que el contenido es un dialogo entre cuatro personas… Tomaremos sus nombres, junto con el nombre de usuario que encontramos en `task.txt` y creamos un nuevo diccionario de nombres de usuario llamado `users.txt`. Este diccionario lo tomaremos junto con el archivo `locks.txt` para poder obtener el usuario y la clave de acceso para la conexión SSH.
 
 ```bash
 
@@ -98,13 +98,13 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2024-01-17 19:44:
 
 ```
 
-## Explotación
+## EXPLOTACIÓN
 
 Nos conectamos vía ssh al servidor con las credenciales que hemos obtenido anteriormente. Una vez dentro de el servidor, listamos los archivos que se encuentren dentro de la carpeta `~/Desktop` y obtenemos el archivo `user.txt` el cual contiene la primera flag.
 
 ![](/assets/img/capturas/bountyhacker/bountyfirstflag.png)
 
-## Escalada de Privilegios
+## ESCALADA DE PRIVILEGIOS
 
 Usando el comando `sudo -l` nos proporciona la información necesaria para poder obtener el vector de ataque a través de los archivos binarios. Para ello, nos ayudamos de la página [GTFOBINS](https://gtfobins.github.io/gtfobins/tar/#sudo)
 

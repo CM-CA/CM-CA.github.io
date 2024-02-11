@@ -52,7 +52,7 @@ La imagen en cuestión muestra a una persona de color dentro de un coche fúnebr
  ![esquela](capturas/totana/isabel.png)
 
 - La matricula de el vehículo es **9981HCY**.
-  
+ 
   1. ![matricula-2](capturas/totana/image-7.png)
   2. ![matricula-3](capturas/totana/image-10.png)
 
@@ -61,12 +61,11 @@ La imagen en cuestión muestra a una persona de color dentro de un coche fúnebr
   ![caracteristicas](capturas/totana/image-8.png) ![car-2](capturas/totana/image-9.png)
 
 - Según la información obtenida en [Maldita Migración](https://maldita.es/migracion/bulo/20240206/migrante-coche-funebre-totana-murcia/) el vehículo pertenece al tanatorio ***"Pichirichi".***
-
 - El hombre de la fotografía está ingresado en el hospital Rafael Méndez de Lorca (Murcia), trasladado por servicios sociales según el ayuntamiento y confirmado por la Iglesia de Santiago el Mayor.
 
 ### LOCALIZACIÓN EXACTA
 
-- La foto original muestra la misma farola, papelera, diseño de los edificios, soportales con cristaleras y balcón con ventanal verde que coinciden al 100% con la realidad. La única discrepancia es la señalización en la farola, que actualmente no existe. El edificio en cuestión es el **Museo Torre Totana**.
+- La fotografía original muestra la misma farola, papelera, diseño de los edificios, soportales con cristaleras y balcón con ventanal verde que coinciden al 100% con la realidad. La única discrepancia es la señalización en la farola, que actualmente no existe. El edificio en cuestión es el **Museo Torre Totana**.
 
     ![lugar funebre](capturas/totana/image-3.png)
 
@@ -74,7 +73,7 @@ La imagen en cuestión muestra a una persona de color dentro de un coche fúnebr
 
     ![foto desde farmacia](capturas/totana/image-2.png)
 
-- Con cierta exactitud, posiblemente la photo fué tomada desde esta farmacia.
+- Con cierta exactitud, posiblemente la fotografía fué tomada desde esta farmacia.
 
     ![farmacia](capturas/totana/image-1.png)
 
