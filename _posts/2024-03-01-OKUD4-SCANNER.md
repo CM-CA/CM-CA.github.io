@@ -1,7 +1,7 @@
 ---
 title: AutoScanner
 date: 2024-03-01 17:30 +/-0000
-categories: Herramientas, Scanner
+categories: Herramientas Scanner
 tags:
   - autoscanner
   - vulnerabilidades
