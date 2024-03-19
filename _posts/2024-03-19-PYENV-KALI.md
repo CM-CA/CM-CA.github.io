@@ -30,6 +30,7 @@ Pyenv es una herramienta poderosa que simplifica la gestión de versiones de Pyt
 
 1. **Instalación de Pyenv:**
    Para instalar Pyenv en Kali Linux, primero necesitas clonar el repositorio de Pyenv desde GitHub y añadirlo al PATH de tu sistema. Ejecuta los siguientes comandos en tu terminal:
+
    ```bash
    git clone https://github.com/pyenv/pyenv.git ~/.pyenv
    echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
@@ -39,7 +40,7 @@ Pyenv es una herramienta poderosa que simplifica la gestión de versiones de Pyt
    source ~/.bashrc
 ```
 
-Si tienes una terminal zsh:
+   Si tienes una terminal zsh:
 
    ```bash
    git clone https://github.com/pyenv/pyenv.git ~/.pyenv
@@ -48,7 +49,7 @@ Si tienes una terminal zsh:
    echo 'eval "$(pyenv init --path)"' >> ~/.zshrc
    echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
    source ~/.zshrc
-   ```
+```
 
 2. **Instalar versiones de Python con Pyenv:**
    Una vez instalado Pyenv, puedes utilizarlo para instalar diferentes versiones de Python en tu sistema. Por ejemplo, para instalar Python 3.9.7, ejecuta el siguiente comando:
