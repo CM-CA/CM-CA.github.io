@@ -1,7 +1,7 @@
 ---
 title: ¿Control de versiones de Python en Kali?
 date: 2024-03-19 17:00 +/-0000
-categories: Herramientas, Python
+categories: Herramientas Python
 tags:
   - pyenv
   - python
