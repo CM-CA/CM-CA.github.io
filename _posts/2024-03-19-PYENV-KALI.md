@@ -9,7 +9,7 @@ tags:
 author: okud4
 toc: true
 img_path: /assets/img/
-image: /banners/Python_hacker_banner.jpg
+image: /banners/PythonHacker-banner.jpg
 ---
 
 **Maximizando la Eficiencia en Kali Linux con Entornos Virtuales y Pyenv**
