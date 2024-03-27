@@ -12,9 +12,8 @@ img_path: /assets/img/
 image: /banners/Cold-Box.png
 ---
 
-## RECONOCIMIENTO
 
-Empezamos escaneando la direccion ip de la máquina con nmap, pero antes de nada en la web [Station X](https://www.stationx.net/nmap-cheat-sheet/)tenemos una buena herramienta para personalizar el tipo de escaneo que deseamos realizar.
+Empezamos escaneando la direccion ip de la máquina con nmap, pero antes de nada en la web [Station X](https://www.stationx.net/nmap-cheat-sheet/) tenemos una buena herramienta para personalizar el tipo de escaneo que deseamos realizar.
 
 Usare un comando para que detecte todos los puertos abiertos, detecte el sistema operativo.
 
