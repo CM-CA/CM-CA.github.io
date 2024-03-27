@@ -42,7 +42,7 @@ Obtengo como resultado que en el puerto 80 corre un servidor Wordpress desactual
 
 Usando `dirb http://<ip>` me listará todos los directorios disponibles. Como resultado obtengo el directorio `/hidden/` y al acceder a dicho directorio obtengo una página web. Compruebo su código y obtengo un dato interesante:
 
-```html5
+```bash
 <h2>[EDITADO], you changed Hugo's password, when you can send it to him so he can continue uploading his articles. Philip</h2>
 ```
 
