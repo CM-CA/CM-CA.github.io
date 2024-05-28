@@ -14,7 +14,7 @@ image: /banners/threemillions-banner.png
 
 ## INTRODUCCIÓN
 
-En este documento detallaré el proceso de reconocimiento, escaneo, enumeración y explotación de una máquina objetivo en un entorno controlado. El objetivo es demostrar cómo se puede identificar y explotar vulnerabilidades en un servidor Linux con un sitio web basado en WordPress. A lo largo del proceso, utilizaré herramientas como `ping`, `nmap` y `nuclei` para la fase de reconocimiento y escaneo, y un script de explotación específico para la vulnerabilidad identificada. Finalmente, analizaré archivos sospechosos y rastrearé transacciones de criptomonedas relacionadas con posibles actividades maliciosas.
+En este documento detallaré el proceso de reconocimiento, escaneo, enumeración y explotación de la máquina [BricksHeist](https://tryhackme.com/r/room/tryhack3mbricksheist), de la plataforma [TryHackme](https://www.tryhackme.com), en un entorno controlado. El objetivo es demostrar cómo se puede identificar y explotar vulnerabilidades en un servidor Linux con un sitio web basado en WordPress. A lo largo del proceso, utilizaré herramientas como `ping`, `nmap` y `nuclei` para la fase de reconocimiento y escaneo, y un script de explotación específico para la vulnerabilidad identificada. Finalmente, analizaré archivos sospechosos y rastrearé transacciones de criptomonedas relacionadas con posibles actividades maliciosas.
 
 ---
 
