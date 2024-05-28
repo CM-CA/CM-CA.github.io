@@ -102,7 +102,15 @@ Y ya estoy dentro. Aquí encontraré la primera flag.
 
 ![inside_bricks](capturas/brickheist/inside_bricks.png)
 
-Ahora creo una reverse shell con Python y la estabilizo. Luego, comprobaré los servicios en busca de alguno sospechoso usando el comando:
+Ahora creo una reverse shell con Python y la estabilizo:
+
+![reverse shell](capturas/brickheist/reverseshell.png)
+
+![reverse shell](capturas/brickheist/reverseshell2.png)
+
+![reverse shell](capturas/brickheist/insidebricks1.png)
+
+Luego, comprobaré los servicios en busca de alguno sospechoso usando el comando:
 
 ```bash
 systemctl list-units
