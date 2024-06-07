@@ -9,9 +9,9 @@ img_path: /assets/img/
 image: /banners/
 ---
 
-## RECONOCIMIENTO
+## INTRODUCCIÓN
 
-## ESCANEO Y ENUMERACIÓN
+## RECONOCIMIENTO, ESCANEO Y ENUMERACIÓN
 
 ## EXPLOTACIÓN
 
