@@ -6,7 +6,7 @@ tags:
 author: okud4
 toc: true
 img_path: /assets/img/
-image: /banners/Cold-Box.png
+image: /banners/investigator2-banner.jpeg
 published: "false"
 ---
 
