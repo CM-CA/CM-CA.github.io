@@ -6,7 +6,7 @@ tags:
 author: okud4
 toc: true
 img_path: /assets/img/
-image: /banners/
+image: /banners/Cold-Box.png
 published: "false"
 ---
 
