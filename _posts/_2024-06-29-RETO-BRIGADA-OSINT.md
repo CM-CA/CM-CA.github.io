@@ -28,7 +28,7 @@ Tras comprobar que no tiene nada oculto, descargo la imagen en mi equipo y la su
 
 Este paso consiste en ver la imagen y tomar nota de los puntos de referencia que más me llaman la atención a simple vista. No considero que deba ser algo exhaustivo, asi que en mi caso tomo como breve descripción lo siguiente:
 
-```shell
+```Markdown
 Aprecio un mar de fondo, gran cantidad de árboles y un conjunto de edificaciones que poseen el mismo estilo. Posible urbanización. Flores en una de la entrada. Farola decorativa.
 ```
 
