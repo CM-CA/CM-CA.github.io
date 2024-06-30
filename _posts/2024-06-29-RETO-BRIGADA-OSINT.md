@@ -12,7 +12,7 @@ published: "false"
 
 ## Aviso Legal: Fines Éticos y Legales
 
-Todo el contenido y las acciones realizadas en esta plataforma tienen estrictamente fines éticos y legales. La información proporcionada ha sido obtenida de manera legal y de fuentes abiertas y públicas. Nos comprometemos a actuar de manera responsable, respetuosa y conforme a las normas y principios éticos establecidos. Nuestro objetivo es proporcionar información precisa y útil, fomentando siempre el bienestar y el respeto hacia todas las personas.
+Todo el contenido y las acciones realizadas en esta plataforma tienen estrictamente fines éticos y legales. La información proporcionada ha sido obtenida de manera legal y de fuentes abiertas y públicas. Nos comprometemos a actuar de manera responsable, respetuosa y conforme a las normas y principios éticos establecidos. El objetivo es proporcionar información precisa y útil, fomentando siempre el bienestar y el respeto hacia todas las personas.
 
 ## INTRODUCCIÓN
 
