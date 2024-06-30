@@ -32,7 +32,7 @@ Tras comprobar que no tiene nada oculto, se descarga la imagen en el equipo y se
 
 Este paso consiste en observar la imagen y tomar nota de los puntos de referencia que más llamen la atención a simple vista. No es necesario ser exhaustivo; en este caso, se toma la siguiente descripción breve:
 
-```Markdown
+```bash
 Se aprecia un mar de fondo, gran cantidad de árboles y un conjunto de
 edificaciones que poseen el mismo estilo. 
 
