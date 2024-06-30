@@ -74,7 +74,7 @@ Ahora se juega con la suerte. Sabemos que ambas localizaciones son viables, así
 
 ## Google Street View
 
-La web no dejó muy lejos esta vez... La búsqueda comienza en una calle cercana, pero despista un poco debido a las viviendas que se encuentran. No parece corresponder al tipo de viviendas de la foto. Según se avanza, se observa la foto original y el mapa para encontrar similitudes en el paisaje y las viviendas (hay tomas que llevan sin actualizarse 10 años) hasta que hay suerte y se encuentra una referencia: el monte.
+La web no me dejó muy lejos esta vez... La búsqueda comienza en una calle cercana, pero despista un poco debido a las viviendas que se encuentran. No parece corresponder al tipo de viviendas de la foto. Según se avanza, se observa la foto original y el mapa para encontrar similitudes en el paisaje y las viviendas (hay tomas que llevan sin actualizarse 10 años) hasta que hay suerte y se encuentra una referencia: el monte.
 
 Se avanza un poco más hasta llegar a un cruce y... ¡BINGO!
 
