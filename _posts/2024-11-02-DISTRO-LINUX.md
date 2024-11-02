@@ -1,18 +1,15 @@
 ---
 title: Distribuciones Linux para Pentesting y OSINT
-date: 2024-11-01 21:30 +/-0000
-categories: Osint, Linux
+date: 2024-11-02 17:00 +/-0000
+categories: Osint Linux
 tags:
-  - osint
   - tools
+author: okud4
 toc: true
 img_path: /assets/img/
 image: /banners/logo-okuda-post.jpeg
+published: "false"
 ---
-
-
-
-# Distribuciones Linux para Hacking y OSINT
 
 ## Hacking.
 
@@ -143,4 +140,3 @@ En este apartado solamente puedo hablar de una distribución que he probado y me
 Como regalo por llegar al final de este post, te dejo una herramienta que te puede resultar útil:
 
 [Intel Techniques](https://inteltechniques.com/tools/index.html)
-
