@@ -60,7 +60,7 @@ Hablaré de mis tres distribuciones favoritas:
     - **Ligereza** y rendimiento: Parrot OS está optimizado para usar menos recursos, lo que permite una ejecución fluida en equipos con menor capacidad, especialmente en comparación con otras distribuciones de pentesting.
 
     - **Interfaz amigable**: Integra el escritorio MATE, un entorno ligero y fácil de personalizar que resulta en una experiencia de usuario más fluida.
-    Puedes explorar en [UnixPorn](https://www.reddit.com/r/unixporn/) acerca de la configuración de tu entorno y descargar el que más te guste, también sirve para otras distribuciones
+    Puedes explorar en [UnixPorn](https://www.reddit.com/r/unixporn/) acerca de la configuración de tu entorno y descargar el que más te guste, también sirve para otras distribuciones.
 
     - **Reproducibilidad de ambientes**: Parrot OS permite configuraciones personalizadas y reproducibles, especialmente útiles para clonar entornos de pentesting y establecer laboratorios virtuales.
 
