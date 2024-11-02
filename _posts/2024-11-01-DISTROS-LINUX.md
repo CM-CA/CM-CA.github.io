@@ -5,7 +5,6 @@ categories: Osint, Linux
 tags:
   - osint
   - tools
-author: okud4
 toc: true
 img_path: /assets/img/
 image: /banners/logo-okuda-post.jpeg
