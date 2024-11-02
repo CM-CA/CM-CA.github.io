@@ -2,12 +2,12 @@
 title: Técnica de Geolocalizacion e informe de ejemplo.
 date: 2024-06-29 17:00 +/-0000
 categories: OSINT Técnicas
-tags: 
+tags:
+  - osint
 author: okud4
 toc: true
 img_path: /assets/img/
 image: /banners/investigator2-banner.jpeg
-published: "true"
 ---
 
 ## Aviso Legal: Fines Éticos y Legales
