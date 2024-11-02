@@ -7,7 +7,7 @@ author: okud4
 toc: true
 img_path: /assets/img/
 image: /banners/investigator2-banner.jpeg
-published: "false"
+published: "true"
 ---
 
 ## Aviso Legal: Fines Éticos y Legales
