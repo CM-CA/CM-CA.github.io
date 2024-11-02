@@ -86,8 +86,6 @@ Hablaré de mis tres distribuciones favoritas:
 
 ## Comparativa Final: Parrot OS, Kali Linux y Athena OS
 
-A continuación, se presenta una comparación entre Parrot OS, Kali Linux y Athena OS, resaltando sus ventajas y desventajas en un entorno de pentesting:
-
 1. **Uso de Recursos y Ligereza**: Parrot OS está optimizado para el uso eficiente de recursos, haciéndolo adecuado para sistemas de gama baja o con menos recursos. Kali Linux, aunque se puede ejecutar en una variedad de entornos, tiende a consumir más recursos, especialmente con configuraciones gráficas avanzadas como GNOME o KDE. Athena OS, al tener un enfoque minimalista y excluir módulos innecesarios, también es ligero, pero depende en gran medida de la configuración Arch o Nix que se elija.
 
 2. **Colección de Herramientas**: Kali Linux ofrece la mayor cantidad de herramientas preinstaladas con más de 600 opciones, facilitando una configuración lista para usar. Parrot OS también incluye una amplia gama, pero con un enfoque en herramientas específicas y una mayor capacidad de personalización. Athena OS, especialmente en la versión Arch, ofrece un repositorio de 2800 herramientas, clasificadas según roles de ciberseguridad, lo cual es beneficioso para una organización estructurada.
