@@ -11,11 +11,11 @@ img_path: /assets/img/
 image: /banners/logo-okuda-post.jpeg
 ---
 
-## Hacking.
+## Hacking
 
 Existen muchas distribuciones linux para estos fines, desde Kali Linux, Parrot o incluso Black Arch. Pero a pesar de que voy a hablar de unas cuantas de ellas, mi recomendación es que pruebes y te quedes con la que más cómodo te encuentres e incluso, construye una distribución personalizada con tus herramientas favoritas.
 
-## Distribuciones para Hacking ético.
+## Distribuciones para Hacking ético
 
 Hablaré de mis tres distribuciones favoritas:
 
@@ -44,7 +44,7 @@ Hablaré de mis tres distribuciones favoritas:
     Rendimiento: optimización en el uso de recursos gracias a su diseño minimalista y estrategias de optimización.
     - **Seguridad**: obtención de paquetes seguros y alertas de CVEs, especialmente en la versión Nix.
     Documentación y accesibilidad: documentación extensa y gratuita, accesible para cualquier usuario.
-    
+
     Comparación entre versiones Athena Arch y Athena Nix:
 
     - **Athena Arch**: es ideal para quienes buscan alta personalización y la posibilidad de utilizar herramientas variadas, gracias a su acceso a AUR y su filosofía "do-it-yourself". Su modelo de actualización continua garantiza siempre la última versión de herramientas sin necesitar reinstalaciones.
@@ -70,7 +70,7 @@ Hablaré de mis tres distribuciones favoritas:
 
     - **Actualización continua y soporte**: Al estar basado en Debian, Parrot OS se beneficia de actualizaciones de seguridad frecuentes y una gran comunidad que mantiene el sistema actualizado y confiable.
 
-3. [Kali Linux]()
+3. [Kali Linux](https://www.kali.org)
 
     Desarrollado por Offensive Security, se centra en ofrecer una plataforma robusta y completa para pruebas de penetración y análisis de vulnerabilidades. Sus características destacadas incluyen:
 
@@ -94,18 +94,17 @@ A continuación, se presenta una comparación entre Parrot OS, Kali Linux y Athe
 
 3. **Flexibilidad y Personalización**: Athena OS destaca por su capacidad de configuración avanzada y flexibilidad, especialmente en su versión basada en Nix, que permite configuraciones inmutables y reproducibles ideales para equipos de trabajo. Kali Linux y Parrot OS ofrecen personalización, pero no alcanzan el nivel de reproducibilidad que proporciona Athena OS con Nix.
 
-3. **Documentación y Comunidad**: Kali Linux cuenta con una comunidad y documentación ampliamente desarrolladas, además de cursos oficiales de Offensive Security, lo cual es una ventaja significativa. Parrot OS también dispone de una comunidad activa y documentación sólida. Athena OS es relativamente nuevo y, aunque tiene documentación extensa, aún está construyendo su base de usuarios.
+4. **Documentación y Comunidad**: Kali Linux cuenta con una comunidad y documentación ampliamente desarrolladas, además de cursos oficiales de Offensive Security, lo cual es una ventaja significativa. Parrot OS también dispone de una comunidad activa y documentación sólida. Athena OS es relativamente nuevo y, aunque tiene documentación extensa, aún está construyendo su base de usuarios.
 
-4. **Modelo de Actualización**: Tanto Kali Linux como Athena OS en su versión Arch tienen un modelo de lanzamiento continuo, lo que garantiza que siempre estén actualizados sin necesidad de reinstalaciones. Parrot OS sigue el modelo Debian estable, con actualizaciones periódicas y centradas en la estabilidad.
+5. **Modelo de Actualización**: Tanto Kali Linux como Athena OS en su versión Arch tienen un modelo de lanzamiento continuo, lo que garantiza que siempre estén actualizados sin necesidad de reinstalaciones. Parrot OS sigue el modelo Debian estable, con actualizaciones periódicas y centradas en la estabilidad.
 
-5. **Seguridad**: Athena OS en su versión Nix sobresale en seguridad con una configuración inmutable y la capacidad de alertar sobre CVEs antes de instalar paquetes vulnerables, lo cual ofrece una ventaja para ambientes donde la seguridad y la consistencia son primordiales. Kali Linux y Parrot OS también ofrecen medidas de seguridad, como el cifrado de disco y herramientas de anonimato, pero no incluyen la prevención de conflictos ni la seguridad de paquetes específicos como lo hace Nix.
-
+6. **Seguridad**: Athena OS en su versión Nix sobresale en seguridad con una configuración inmutable y la capacidad de alertar sobre CVEs antes de instalar paquetes vulnerables, lo cual ofrece una ventaja para ambientes donde la seguridad y la consistencia son primordiales. Kali Linux y Parrot OS también ofrecen medidas de seguridad, como el cifrado de disco y herramientas de anonimato, pero no incluyen la prevención de conflictos ni la seguridad de paquetes específicos como lo hace Nix.
 
 7. **Optimización para Equipos de Trabajo**: Athena OS, particularmente en su versión Nix, es ideal para entornos de trabajo colaborativos gracias a sus configuraciones reproducibles y soporte para configuraciones inmutables. Parrot OS y Kali Linux pueden usarse en equipos, pero no ofrecen las mismas capacidades de clonado y replicación de entorno que Nix en Athena.
 
 8. **Facilidad de Uso**: Kali Linux es posiblemente el más accesible para principiantes debido a su extensa documentación y soporte oficial. Parrot OS también es amigable para usuarios con experiencia en Linux. Athena OS, al estar basado en Arch y Nix, requiere un conocimiento técnico algo más avanzado, aunque proporciona un entorno muy personalizable para quienes dominan su configuración.
 
-## Conclusión
+## Conclusión de las distribuciones para pentesting
 
 **Kali Linux** es ideal para quienes buscan una plataforma integral de pentesting que venga lista para usar con una vasta colección de herramientas, excelente documentación, y soporte educativo.
 
@@ -113,8 +112,7 @@ A continuación, se presenta una comparación entre Parrot OS, Kali Linux y Athe
 
 **Athena OS** sobresale en configuraciones avanzadas, personalización, y entornos colaborativos gracias a sus versiones Arch y Nix, siendo ideal para pentesters experimentados y ambientes donde la reproducibilidad y seguridad avanzada son fundamentales.
 
-
-## Distribuciones especificas para OSINT.
+## Distribuciones especificas para OSINT
 
 En este apartado solamente puedo hablar de una distribución que he probado y me gusta bastante, suelo usarla para realizar investigaciones.
 
@@ -130,8 +128,7 @@ En este apartado solamente puedo hablar de una distribución que he probado y me
 
     - **Navegación anónima y privacidad**: Tiene configuraciones preconfiguradas para el uso de Tor y VPNs, ofreciendo un entorno seguro y anónimo para la recolección de datos.
 
-
-## Conclusión:
+## Conclusión de las distribuciones para OSINT
 
 **CSI Linux** es una excelente opción para aquellos que buscan una distribución OSINT integral con capacidades de anonimato y módulos preconfigurados para ciberinteligencia. Su enfoque en herramientas específicas y módulos de aprendizaje la hace muy adecuada para investigadores dedicados.
 
