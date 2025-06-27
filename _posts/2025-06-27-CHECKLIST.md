@@ -12,6 +12,8 @@ img_path: /assets/img/
 image: /banners/adcheck-banner.jpg
 ---
 
+Este checklist es una guía completa para pentesting en entornos Active Directory, tanto en labs tipo HackTheBox como en entornos reales.  
+Recoge las técnicas, herramientas y rutas de escalada más utilizadas actualmente por Red Teams y pentesters ofensivos.
 
 ## 🕵️ 1️⃣ Reconocimiento Inicial
 
