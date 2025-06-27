@@ -1,7 +1,7 @@
 ---
 title: Checklist para Active Directory.
 date: 2025-06-27 11:30 +/-0000
-categories: RedTeam Windows
+categories: Windows
 tags:
   - windows
   - red-team
