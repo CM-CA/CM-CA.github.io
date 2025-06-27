@@ -1,6 +1,6 @@
 ---
 title: Checklist para Active Directory.
-date: 2025-06-27 11:30 +/-0000
+date: 2025-06-27 10:30 +/-0000
 categories: Windows RedTeam
 tags:
   - windows
@@ -9,11 +9,9 @@ tags:
 author: okud4
 toc: true
 img_path: /assets/img/
-image: /banners/adcheck.jpg
+image: /banners/adcheck-banner.jpg
 ---
 
-Este checklist es una guía completa para pentesting en entornos Active Directory, tanto en labs tipo HackTheBox como en entornos reales.  
-Recoge las técnicas, herramientas y rutas de escalada más utilizadas actualmente por Red Teams y pentesters ofensivos.
 
 ## 🕵️ 1️⃣ Reconocimiento Inicial
 
@@ -70,13 +68,13 @@ Recoge las técnicas, herramientas y rutas de escalada más utilizadas actualmen
 - [ ] **Importación en GUI BloodHound CE**
 
 - [ ] **Queries esenciales**:
-    - Shortest Paths to Domain Admin
-    - Shortest Paths to High Value Targets
-    - Users with GenericAll / GenericWrite
-    - Users who can RDP / PSRemote
-    - GPOs that can be modified
-    - Shadow Admins
-    - DCSync rights
+  - Shortest Paths to Domain Admin
+  - Shortest Paths to High Value Targets
+  - Users with GenericAll / GenericWrite
+  - Users who can RDP / PSRemote
+  - GPOs that can be modified
+  - Shadow Admins
+  - DCSync rights
 
 ---
 
@@ -168,5 +166,3 @@ Recoge las técnicas, herramientas y rutas de escalada más utilizadas actualmen
 ✅ DCSync es uno de los objetivos más potentes: controla el dominio
 
 ---
-
-*Happy Hacking & Stay Ethical! 🚀*
