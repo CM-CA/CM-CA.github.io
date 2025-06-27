@@ -1,11 +1,11 @@
 ---
 title: Checklist para Active Directory.
 date: 2025-06-27 11:30 +/-0000
-categories: Windows
+categories: Windows RedTeam
 tags:
   - windows
-  - red-team
-  - active-directory
+  - redteam
+  - activedirectory
 author: okud4
 toc: true
 img_path: /assets/img/
