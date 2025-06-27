@@ -29,8 +29,6 @@ image: /banners/adcheck-banner.jpg
 - [ ] 📂 **Enumeración LDAP**  
   Herramientas: `ldapsearch`, `ldapdomaindump`
 
----
-
 ## 👤 2️⃣ Enumeración de Usuarios
 
 - [ ] **Kerberos User Enum**  
@@ -45,8 +43,6 @@ image: /banners/adcheck-banner.jpg
 - [ ] **Password Spray**  
   `crackmapexec` con listas de passwords comunes
 
----
-
 ## 📁 3️⃣ Shares (SMB)
 
 - [ ] **Descubrir shares**  
@@ -58,8 +54,6 @@ image: /banners/adcheck-banner.jpg
   (`Groups.xml`, cpassword)
 
 - [ ] **Buscar scripts, backups o ficheros sensibles**
-
----
 
 ## 🩻 4️⃣ BloodHound (Mapeo de privilegios)
 
@@ -76,8 +70,6 @@ image: /banners/adcheck-banner.jpg
   - Shadow Admins
   - DCSync rights
 
----
-
 ## 🗡️ 5️⃣ Explotación de ACLs
 
 - [ ] **CanAddMember → subir a grupo privilegiado**
@@ -92,8 +84,6 @@ image: /banners/adcheck-banner.jpg
 
 - [ ] **ForceChangePassword**
 
----
-
 ## 🎮 6️⃣ Acceso Remoto / RCE
 
 - [ ] **WinRM (PowerShell remoto)**  
@@ -104,8 +94,6 @@ image: /banners/adcheck-banner.jpg
 
 - [ ] **RDP**  
   Herramientas: `rdesktop`, `xfreerdp`, `mstsc`
-
----
 
 ## 🚀 7️⃣ Privilege Escalation & Persistence
 
@@ -124,8 +112,6 @@ image: /banners/adcheck-banner.jpg
 - [ ] **DCSync Attack**  
   → Dump de todos los hashes del dominio
 
----
-
 ## 🏅 8️⃣ Golden Ticket & Domain Dominance
 
 - [ ] **Golden Ticket Attack**  
@@ -135,8 +121,6 @@ image: /banners/adcheck-banner.jpg
   - ACL abuse  
   - GPO malicioso  
   - SIDHistory
-
----
 
 ## 🛠️ Herramientas Esenciales
 
@@ -155,8 +139,6 @@ image: /banners/adcheck-banner.jpg
 | WinPEAS              | Priv Esc local |
 | Secretsdump.py       | Dump de hashes |
 
----
-
 ## 🧠 Filosofía de ataque en Active Directory
 
 ✅ Siempre busca *paths de escalada de privilegios*, no solo DA  
@@ -164,5 +146,3 @@ image: /banners/adcheck-banner.jpg
 ✅ Grupos "secundarios" como *SERVICE ACCOUNTS*, *HelpDesk*, *IT Support* suelen ser claves  
 ✅ El abuso de ACL es el presente → No dependas solo de credenciales  
 ✅ DCSync es uno de los objetivos más potentes: controla el dominio
-
----
