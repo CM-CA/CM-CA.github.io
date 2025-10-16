@@ -1,4 +1,20 @@
-# Guía Rápida de PowerShell (Actualizada)
+---
+title: INVESTIGACIÓN OSINT (RETO)
+date: 2025-10-16 13:30 +/-0000
+categories: Windows Guia
+tags:
+  - windows
+  - guia
+  - investigación
+author: okud4
+toc: true
+img_path: /assets/img/
+image: /banners/investigator-banner.jpg
+---
+
+
+
+# Guía Rápida de PowerShell
 
 Referencia compacta en español con comandos listos para copiar/pegar. Incluye: básicos, gestión de usuarios/grupos, archivos/directorios, registro, búsqueda y filtrado, logs/eventos, información del sistema, búsqueda de host, ver archivos ocultos, búsqueda recursiva de archivos con contenido y técnicas para investigar módulos PowerShell (CTF/pentesting).
 
