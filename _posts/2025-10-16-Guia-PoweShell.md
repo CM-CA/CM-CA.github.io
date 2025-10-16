@@ -308,4 +308,3 @@ $results | Export-Csv -Path "$env:TEMP\module_search_results.csv" -NoTypeInforma
 
 ---
 
-¿Quieres que exporte esta guía actualizada a **PDF** o **DOCX** y te la deje lista para descargar?
