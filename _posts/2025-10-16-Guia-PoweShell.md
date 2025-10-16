@@ -1,5 +1,5 @@
 ---
-title: INVESTIGACIÓN OSINT (RETO)
+title: GUÍA PARA POWERSHELL
 date: 2025-10-16 13:30 +/-0000
 categories: Windows Guia
 tags:
