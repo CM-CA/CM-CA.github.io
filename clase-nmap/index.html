@@ -26,6 +26,9 @@ ul{margin:0;padding-left:1.2em}li{margin-bottom:.5em}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:2vmin}
 .card{background:var(--card);border-radius:16px;padding:2.4vmin 3vmin;display:flex;flex-direction:column;gap:1vmin}
 .light .card{background:#FBF9F4}
+.tile{background:#08111F;border:2px dashed var(--line);border-radius:16px;padding:2.4vmin 3vmin;display:flex;flex-direction:column;gap:1vmin}
+.tile p{color:var(--muted)}
+.tile .ph{font-size:clamp(13px,1.8vw,22px);font-weight:600;color:var(--warn);letter-spacing:.08em;text-transform:uppercase}
 .num{font-family:'Space Grotesk',sans-serif;font-size:clamp(32px,5vw,56px);font-weight:700;color:var(--acc);line-height:1}
 .light .num{color:#0B7A70}
 .code{font-family:ui-monospace,Consolas,'Courier New',monospace;font-size:clamp(15px,2.6vw,30px);background:#08111F;color:#7EE8DC;border-radius:12px;padding:2.4vmin 3vmin;margin:0;overflow-x:auto;white-space:pre}
@@ -55,6 +58,20 @@ nav button{background:var(--acc);color:#08111F;border:0;border-radius:10px;paddi
 <div class="card"><p class="num">2</p><h3>Hallazgo</h3><p>Su cámara aparece en un directorio público de cámaras desprotegidas (tipo Insecam).</p></div>
 <div class="card"><p class="num">3</p><h3>La pregunta</h3><p>¿Cómo confirmamos la brecha, con qué evidencia y qué entregamos al cliente?</p></div>
 </div>
+</section>
+
+<section>
+<p class="kicker">Maqueta con datos ficticios</p>
+<h2>Así es un directorio de cámaras expuestas</h2>
+<div class="grid">
+<div class="tile"><p class="ph">Sin imagen</p><h3>Cámara 1</h3><p>Ciudad A · Puerto 554</p></div>
+<div class="tile"><p class="ph">Sin imagen</p><h3>Cámara 2</h3><p>Ciudad B · Puerto 80</p></div>
+<div class="tile"><p class="ph">Sin imagen</p><h3>Cámara 3</h3><p>Ciudad C · Puerto 8000</p></div>
+<div class="tile"><p class="ph">Sin imagen</p><h3>Cámara 4</h3><p>Ciudad D · Puerto 554</p></div>
+<div class="tile"><p class="ph">Sin imagen</p><h3>Cámara 5</h3><p>Ciudad E · Puerto 80</p></div>
+<div class="tile"><p class="ph">Sin imagen</p><h3>Cámara 6</h3><p>Ciudad F · Puerto 8080</p></div>
+</div>
+<p class="small">Cada ficha muestra una transmisión en directo y una ubicación aproximada. Detrás hay personas reales.</p>
 </section>
 
 <section class="light">
@@ -182,7 +199,7 @@ nav button{background:var(--acc);color:#08111F;border:0;border-radius:10px;paddi
 </section>
 
 </div>
-<nav><button id="prev">←</button><span id="count">1 / 12</span><button id="next">→</button></nav>
+<nav><button id="prev">←</button><span id="count">1 / 13</span><button id="next">→</button></nav>
 <script>
 (function(){
  var d=document.getElementById('deck'),c=document.getElementById('count');
